@@ -1,0 +1,12 @@
+console.log (6450/15);
+console.log (500*52.1429);
+console.log ((17/30)*100+"%");
+console.log(4*4.75);
+console.log(5+6+7);
+console.log(5**2);
+console.log((3*4)/2);
+console.log(9**3);
+console.log(22.35+(22.35*0.1)+26.67+(26.67*0.15)+35.92+(35.92*0,2));
+console.log((8+6+5+9+8+2+1+8.5+7+4)/10);
+console.log((85*6)-(75+70+85+90+100));
+console.log((9*80)-(8*78));
