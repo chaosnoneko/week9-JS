@@ -11,7 +11,7 @@ console.log(characters[characters.length-1]) // to get the last character if we 
 // charAt method
 console.log(characters.charAt(0))
 console.log(characters.charAt(-1)) // won't give any result
-console.log(characters.charAt(characters.length-1)) // wi;; print the last letter
+console.log(characters.charAt(characters.length-1)) // will;; print the last letter
 
 // toLowerCase method - will convert all characters in lower case
 console.length(characters.toLowerCase()) // will show all of the cahracters won't print any letter by it self if we put a number in the second ()
