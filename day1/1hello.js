@@ -1,4 +1,4 @@
-// this is sinle line comment 
+// this is single line comment 
 
 /* 
 multi lines 
