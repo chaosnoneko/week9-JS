@@ -1,0 +1,25 @@
+/*
+1. Set break points
+- Set some sizes on the page
+* Cell phones
+Laptop
+Tablets
+TV ( smart TVs )
+
+* Background color
+Phone ( red )
+Laptop ( Green )
+Laptop > ( Red ) 
+*/
+
+body {
+    background-color: green;
+}
+/* 
+2. Media query 
+* Phone portrait version */
+@media only screen and (min-width: 320px) and (orientation: portrait) {
+    body {
+        background-color: red;
+    }
+}
